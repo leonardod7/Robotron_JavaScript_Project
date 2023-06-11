@@ -7,7 +7,7 @@
 
 <div>
   <p> Link do projeto
-    <a href=""> a página do sidebar </a>
+    <a href="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/864301ae-e0fc-4bf2-afa2-3beb9dc0abe5"> a página do sidebar </a>
    </p>
 </div>
 

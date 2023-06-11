@@ -7,10 +7,11 @@
 
 <div>
   <p> Link do projeto
-    <a href=""> a página do Robotron </a>
+    <a href="https://leonardod7.github.io/Robotron_JavaScript_Project/"> a página do Robotron </a>
    </p>
 </div>
 
+  
 <img width="1612" alt="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/c8ad419f-92fb-4ecb-bc66-34802a4a6b6e">
 
 

@@ -11,7 +11,7 @@
    </p>
 </div>
 
-<img width="1612" alt="Captura de Tela 2023-06-11 às 09 46 28" src="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/110911d5-9e30-44ee-8feb-f6f3270fedbe">
+<img width="1612" alt="">
 
 
 

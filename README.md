@@ -1,7 +1,7 @@
 # Projeto Desenvolvimento WEB
 
 <div>
-<img src="" width='150px' height='60px'
+<img src="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/11d62e7a-d984-461d-94fe-bb35d69fc14e" width='150px' height='60px'
 </div>
 
 
@@ -12,8 +12,6 @@
 </div>
 
 <img width="1612" alt="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/864301ae-e0fc-4bf2-afa2-3beb9dc0abe5">
-
-
 
 
 *******

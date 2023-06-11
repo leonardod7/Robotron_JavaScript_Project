@@ -11,11 +11,12 @@
    </p>
 </div>
   
+<div>
   <img width="1612" alt="Robotron_Tela" src="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/93439268-22b6-490e-ae56-5cd3595d1f47">
-
+</div>
 
   
-<img width="1612" alt="https://github.com/leonardod7/Robotron_JavaScript_Project/assets/107505958/c8ad419f-92fb-4ecb-bc66-34802a4a6b6e">
+
 
 
 *******
